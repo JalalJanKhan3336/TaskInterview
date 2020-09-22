@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_nav_graph"
+    app:startDestination="@id/apiWorkFragment">
+
+    <fragment
+        android:id="@+id/listFragment"
+        android:name="com.thesoftparrot.storageapp.myapplication.ListFragment"
+        android:label="Products"
+        tools:layout="@layout/fragment_list" />
+    <fragment
+        android:id="@+id/cartFragment"
+        android:name="com.thesoftparrot.storageapp.myapplication.CartFragment"
+        android:label="Cart"
+        tools:layout="@layout/fragment_cart" />
+    <fragment
+        android:id="@+id/apiWorkFragment"
+        android:name="com.thesoftparrot.storageapp.myapplication.apiwork.ApiWorkFragment"
+        android:label="API Work"
+        tools:layout="@layout/fragment_api_work" />
+</navigation>

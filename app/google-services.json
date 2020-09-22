@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106189162313",
+    "firebase_url": "https://my-application-18abd.firebaseio.com",
+    "project_id": "my-application-18abd",
+    "storage_bucket": "my-application-18abd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106189162313:android:cc0703eef3520ff68abc98",
+        "android_client_info": {
+          "package_name": "com.thesoftparrot.storageapp.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106189162313-7b3frhau32luia4sj31r87cr31m42ags.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqAzvpWiq4KBn77E9eTra172KZCWEaS9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106189162313-7b3frhau32luia4sj31r87cr31m42ags.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

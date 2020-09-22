@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/apiWorkFragment"
+        android:title="@string/api_work"
+        android:icon="@drawable/ic_list"/>
+
+    <item android:id="@+id/listFragment"
+        android:title="@string/list"
+        android:icon="@drawable/ic_list"/>
+
+    <item android:id="@+id/cartFragment"
+        android:title="@string/cart"
+        android:icon="@drawable/ic_cart_black"/>
+
+</menu>
